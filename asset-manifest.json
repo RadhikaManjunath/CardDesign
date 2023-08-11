@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/CardDesign/static/css/main.14e960e1.css",
-    "main.js": "/CardDesign/static/js/main.808455d7.js",
+    "main.js": "/CardDesign/static/js/main.241f8be2.js",
     "static/js/787.13d76ca7.chunk.js": "/CardDesign/static/js/787.13d76ca7.chunk.js",
     "index.html": "/CardDesign/index.html",
     "main.14e960e1.css.map": "/CardDesign/static/css/main.14e960e1.css.map",
-    "main.808455d7.js.map": "/CardDesign/static/js/main.808455d7.js.map",
+    "main.241f8be2.js.map": "/CardDesign/static/js/main.241f8be2.js.map",
     "787.13d76ca7.chunk.js.map": "/CardDesign/static/js/787.13d76ca7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.14e960e1.css",
-    "static/js/main.808455d7.js"
+    "static/js/main.241f8be2.js"
   ]
 }
